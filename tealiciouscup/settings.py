@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-qpan)at=*qw@jmgs52h1*#kpenf%2%x60x4jjd6dc-d2_rnmgn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://127.0.0.1:8000/','https://tealiciouscup.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1:8000','tealiciouscup.herokuapp.com']
 
 
 # Application definition
